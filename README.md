@@ -1,23 +1,22 @@
 # Frontend-version-control-task-Doris
-## Branches Created
 
-- feature-header → Handles navigation and header styling
-- feature-footer → Handles footer improvements
+## Purpose
+This repo demonstrates understanding of Git version control workflows including branches, commits, PRs, and merges.
 
-## Frequently Used Git Commands
+## Branches
+- `feature-header` – implemented the header with styling and responsiveness
+- `feature-footer` – implemented the footer with styling and emoji
 
-- git init
-- git checkout -b
-- git add .
-- git commit -m
-- git push
-- git pull
-- git revert
-- git fetch
+## Git Commands Used
+- `git add .`  
+- `git commit -m "message"`  
+- `git push -u origin branch-name`  
+- `git checkout -b branch-name`  
+- `git pull origin main`  
+- `git merge`  
+- `git revert <commit-hash>`
 
 ## Lessons Learned
-
-- Importance of small meaningful commits
-- Why branches keep main branch clean
-- How pull requests improve collaboration
-- How to safely revert mistakes
+- How to handle merge conflicts  
+- Importance of meaningful commits  
+- Best practices for PRs and code reviews
