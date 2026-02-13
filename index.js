@@ -10,3 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+<<<<<<< HEAD
+=======
+
+>>>>>>> 49679fd51e766482154cbff367588eac57be814f
