@@ -21,7 +21,7 @@ This repo demonstrates understanding of Git version control workflows including 
 - Importance of meaningful commits  
 - Best practices for PRs and code reviews
 
-### Screenshot of Merged Pull Requests
+## Screenshot of Merged Pull Requests
 ![Merged PR screenshot](images/merged-pr-screenshot.png)
 ![Merged PR screenshot](images/merged-pr-screenshot-.png)
 
