@@ -20,5 +20,3 @@ This repo demonstrates understanding of Git version control workflows including 
 - How to handle merge conflicts  
 - Importance of meaningful commits  
 - Best practices for PRs and code reviews
-
-
